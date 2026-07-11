@@ -1,4 +1,9 @@
- Smart Health - Integrated Healthcare Management System
+**A smart health assistant application for patient monitoring and clinical management**
+
+**PROBLEM STATEMENT**
+Limited access to timely and reliable healthcare services, coupled with poor appointment management and weak patient-doctor communication, continues to reduce the efficiency of healthcare delivery. 
+Existing methods such as manual booking, phone calls, and paper-based records are inefficient, error-prone, and lack real-time coordination. 
+As a result, patients experience long waiting times, missed appointments, and delayed treatment, while healthcare providers struggle to manage patient schedules effectively, leading to overcrowding, reduced patient satisfaction, and poor health outcomes.
 
 Smart Health is a comprehensive healthcare management app that connects patients,doctors, and hospital administrators in one secure platform.
 
